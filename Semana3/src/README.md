@@ -9,9 +9,9 @@
 
 
 2. **Exclusão de Mercadoria:**
- - Verifica se é possível excluir uma mercadoria da tabela de hash.
- - Entrada: ID da mercadoria que vai ser excluída.
- - Saída Esperada: Confirmação de que a mercadoria foi excluída com sucesso.
+   - Verifica se é possível excluir uma mercadoria da tabela de hash.
+   - Entrada: ID da mercadoria que vai ser excluída.
+   - Saída Esperada: Confirmação de que a mercadoria foi excluída com sucesso.
 
 
 3. **Recuperação de Mercadoria:**
